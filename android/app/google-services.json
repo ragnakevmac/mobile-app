@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "825255910480",
+    "project_id": "wasteagram-macandok",
+    "storage_bucket": "wasteagram-macandok.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:825255910480:android:57dd1aa905f39b5a69c555",
+        "android_client_info": {
+          "package_name": "com.example.wasteagram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "825255910480-crejhmg3f6lc0kd3mthg0v2mnrt9hts2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD336X_VzG5WMGrqA5RS30y_hsFFOJCahw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "825255910480-crejhmg3f6lc0kd3mthg0v2mnrt9hts2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
